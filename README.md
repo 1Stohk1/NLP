@@ -1,2 +1,2 @@
 # NLP
-Comparison between to major algorithm, leader of the Machine Translation segment.
+Comparison between two major algorithm, leader of the Machine Translation segment.
